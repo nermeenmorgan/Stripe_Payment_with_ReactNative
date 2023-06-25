@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "server",
+			"path": "../../../../../paymentHelp/react-stripe-payment-element/server"
+		},
+		{
+			"name": "testingMobile",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
